@@ -1,5 +1,55 @@
-### Hi there 👋
+# About Me
 
+- 💻 Software Engineer by day
+- 🎮 Gamer by night
+
+
+## My Github Stats
+[![Dave89rr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dave89rr&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)](#)
+
+## In My Repertoire
+### Languages
+[![Javascript](https://camo.githubusercontent.com/2023dc4b668a3505629a807fda6137fd77b7557326b6d5451b7eb20c4715214c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6637646631653f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d626c61636b)](#)
+[![Python](https://camo.githubusercontent.com/97597ac0c66b75da381cb805672d1caff93a03d8225f7f9358e7c7f1b91143a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465)](#)
+[![HTML5](https://camo.githubusercontent.com/939ccbc4390d4b233428c14aeee9278cf90c10e970e0234a42899451538873b1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)](#)
+[![CSS3](https://camo.githubusercontent.com/2a7f4052ea934735f61d7ee294ec6846dee5f8f871530e05f7f737c5e3c060f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d7768697465)](#)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+
+### Libraries
+[![React.js](https://camo.githubusercontent.com/31ffd034107736b974fa5a52bbd5ee83118073039ca287d76a4ea54811dbbfde/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d626c61636b)](#)
+[![Redux.js](https://camo.githubusercontent.com/59724eebf959026f2346989b916c44a819b58518704fd8f3dfe9570cdccab450/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d5265647578266c6f676f436f6c6f723d7768697465)](#)
+[![React Router](https://camo.githubusercontent.com/8a58a4565dd9a902796eafebf565d0b602564c28891b0638ede18629dce29a03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5265616374253230526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d52656163742d526f75746572266c6f676f436f6c6f723d7768697465)](#)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+
+### Frameworks
+[![Flask](https://camo.githubusercontent.com/8d3b67311f1f8008cbd6d19dd6fe85f31e4a27ee9c4846281d33b986139a0ec9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d466c61736b2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d466c61736b266c6f676f436f6c6f723d7768697465)](#)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+
+### Miscellaneous Software + Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![PostgreSQL](https://camo.githubusercontent.com/6f71b1c0253b2ec76da45564957313ceb375105949c019632c3bc413ef3b431c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f737467726553514c2d3333363739313f7374796c653d666f722d7468652d6261646765266c6f676f3d506f737467726553514c266c6f676f436f6c6f723d7768697465)](#)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+[![Docker](https://camo.githubusercontent.com/d882c837ca575f4a4bded9a1825a84a51ab382e03796c547b3e124e92fe1bd6c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465)](#)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+
+### Miscellaneous Tools
+[![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)](#)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 <!--
 **Dave89rr/Dave89rr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +63,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 -->
